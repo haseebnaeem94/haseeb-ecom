@@ -1,5 +1,4 @@
 import React from 'react';
-import Image from 'next/image';
 import { TbTruckDelivery } from "react-icons/tb";
 import { IoIosCheckmarkCircleOutline } from "react-icons/io";
 import { LuSprout } from "react-icons/lu";
