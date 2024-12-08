@@ -1,4 +1,4 @@
-import Image from "next/image";
+
 import Hero from "@/components/hero";
 import Brand from "@/components/brand";
 import Ceramics from "@/components/ceramics";
